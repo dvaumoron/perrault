@@ -16,9 +16,8 @@
  *
  */
 
- package ui
+package ui
 
- type UI interface {
-	func AskUserChoice(string, []string) int
- }
- 
+type UI interface {
+	AskUserChoice(string, []string) int
+}

@@ -16,4 +16,4 @@
  *
  */
 
- package cli
+package terminal

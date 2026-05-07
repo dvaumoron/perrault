@@ -16,5 +16,4 @@
  *
  */
 
- package http
- 
+package browser
