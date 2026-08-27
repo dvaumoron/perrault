@@ -1,6 +1,8 @@
 module github.com/dvaumoron/perrault
 
-go 1.26.2
+go 1.27
+
+toolchain go1.27.0
 
 require (
 	github.com/charmbracelet/bubbles v1.0.0
